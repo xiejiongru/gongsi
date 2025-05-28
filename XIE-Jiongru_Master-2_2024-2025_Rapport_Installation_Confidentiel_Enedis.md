@@ -359,6 +359,22 @@ gantt
 ```
 
 ```mermaid
+---
+
+config:
+
+  theme: default
+
+---
+
+---
+
+config:
+
+  theme: default
+
+---
+
 gantt
   title Planning du Projet de Stage Enedis IDS (05/05/2025 - 31/10/2025)
   dateFormat  YYYY-MM-DD
